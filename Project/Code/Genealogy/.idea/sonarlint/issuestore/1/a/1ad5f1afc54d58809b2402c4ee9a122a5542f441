@@ -1,0 +1,8 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(•²—œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê´…™ýÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ýÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(âä››

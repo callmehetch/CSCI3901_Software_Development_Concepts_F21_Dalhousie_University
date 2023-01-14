@@ -1,0 +1,25 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+l
+java:S1192"VDefine a constant instead of duplicating this literal "Exception- [%s]: %s%n" 8 times.(½Ó·¸
+m
+java:S1192"RDefine a constant instead of duplicating this literal "WHERE personID = " 5 times.(ƒ™š­ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¦š¡şÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„“Úúÿÿÿÿ
+e	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÛß
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ş«şşÿÿÿÿ
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡§ó®
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¢ë²øÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±É’°ÿÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö•ë
+c
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Û‹áàüÿÿÿÿ
+b
+java:S2095c"GUse try-with-resources or close this "Statement" in a "finally" clause.(Û‹áàüÿÿÿÿ

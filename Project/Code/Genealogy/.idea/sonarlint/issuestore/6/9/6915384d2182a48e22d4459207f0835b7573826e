@@ -1,0 +1,9 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†åİµüÿÿÿÿ
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(½Ó·¸8­ÅÚÛÛ/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(½Ó·¸8çÚÛÛ/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(½Ó·¸8Æ¥ÛÛÛ/
+s
+java:S1192*"VDefine a constant instead of duplicating this literal "Exception- [%s]: %s%n" 3 times.(½Ó·¸8Ö¥ÛÛÛ/
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Û‹áàüÿÿÿÿ

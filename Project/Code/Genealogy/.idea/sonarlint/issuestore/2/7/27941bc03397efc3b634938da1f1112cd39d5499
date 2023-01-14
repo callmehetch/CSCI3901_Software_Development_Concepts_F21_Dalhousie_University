@@ -1,0 +1,28 @@
+
+r	java:S116"]Rename this field "ReferencesOfPerson" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ää
+t
+java:S1450
+"XRemove the "birthDate" field and declare it as a local variable in the relevant methods.(¹Ç98Æ˜„ßÛ/
+y
+java:S1450"\Remove the "birthLocation" field and declare it as a local variable in the relevant methods.(çíî×8Æ˜„ßÛ/
+z
+java:S1450"XRemove the "deathDate" field and declare it as a local variable in the relevant methods.(‡øÅ‰ÿÿÿÿÿ8Æ˜„ßÛ/
+x
+java:S1450"\Remove the "deathLocation" field and declare it as a local variable in the relevant methods.(ê³÷8Æ˜„ßÛ/
+r
+java:S1450"URemove the "gender" field and declare it as a local variable in the relevant methods.(ÀÄŒ8Æ˜„ßÛ/
+
+java:S1450"]Remove the "occupationName" field and declare it as a local variable in the relevant methods.(áĞÖ¹ûÿÿÿÿ8Æ˜„ßÛ/
+I
+java:S1068
+"-Remove this unused "birthDate" private field.(¹Ç98Ö˜„ßÛ/
+N
+java:S1068"1Remove this unused "birthLocation" private field.(çíî×8Ö˜„ßÛ/
+O
+java:S1068"-Remove this unused "deathDate" private field.(‡øÅ‰ÿÿÿÿÿ8Ö˜„ßÛ/
+M
+java:S1068"1Remove this unused "deathLocation" private field.(ê³÷8Ö˜„ßÛ/
+G
+java:S1068"*Remove this unused "gender" private field.(ÀÄŒ8Ö˜„ßÛ/
+T
+java:S1068"2Remove this unused "occupationName" private field.(áĞÖ¹ûÿÿÿÿ8Ö˜„ßÛ/

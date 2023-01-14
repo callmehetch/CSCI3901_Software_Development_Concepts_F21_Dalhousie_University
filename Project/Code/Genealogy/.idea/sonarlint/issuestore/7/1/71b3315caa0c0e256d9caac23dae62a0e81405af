@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(½Ó·¸
+l
+java:S1192"VDefine a constant instead of duplicating this literal "Exception- [%s]: %s%n" 4 times.(½Ó·¸
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôˆ¯ä
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÚ§ó
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©Ãïþÿÿÿÿ
+i
+java:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(Û‹áàüÿÿÿÿ8æ§ÇÜÛ/
+i
+java:S2095("GUse try-with-resources or close this "Statement" in a "finally" clause.(Û‹áàüÿÿÿÿ8æ§ÇÜÛ/

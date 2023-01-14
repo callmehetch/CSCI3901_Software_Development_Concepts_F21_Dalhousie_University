@@ -1,0 +1,43 @@
+
+7
+java:S1170"!Make this final field static too.(‹¬Æ¼
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(á‹›Ëÿÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ËüÍÜ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¶äšÚüÿÿÿÿ
+d	java:S100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªñ°ˆ
+I
+java:S1168š"+Return an empty collection instead of null.(¥¹ï8ñªÔßÛ/
+n
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(–ÛÜŞúÿÿÿÿ
+i
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(šÊÊ
+I
+java:S1168€"+Return an empty collection instead of null.(¥¹ï8ñªÔßÛ/
+I
+java:S1168‰"+Return an empty collection instead of null.(¥¹ï8Å¶ÖßÛ/
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ò¸Äïıÿÿÿÿ
+I
+java:S1168Ò"+Return an empty collection instead of null.(¥¹ï8ä¶ÖßÛ/
+I
+java:S1168à"+Return an empty collection instead of null.(¥¹ï8ä¶ÖßÛ/
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(»ğûıÿÿÿÿ
+t	java:S135ä"YReduce the total number of break and continue statements in this loop to use at most one.(˜æÁ×úÿÿÿÿ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ıÿÿÿÿ
+F
+java:S1066õ"/Merge this if statement with the enclosing one.(Êèâñ
+F
+java:S1066Ä"/Merge this if statement with the enclosing one.(…Š¿Ø
+F
+java:S1066µ"/Merge this if statement with the enclosing one.(óí¶·
+F
+java:S1066¶"/Merge this if statement with the enclosing one.(…Š¿Ø
+K
+java:S1066ô"/Merge this if statement with the enclosing one.(«–Æ‚ıÿÿÿÿ
+\
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(šÀ°Â8ÂåßÛ/
+a
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(´¹êûÿÿÿÿ8ÂåßÛ/
+—
+java:S4165†"tRemove this useless assignment; "setFindMediaByLocation" already holds the assigned value along all execution paths.(–í¡şÿÿÿÿ8ç“ÖßÛ/

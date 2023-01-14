@@ -1,0 +1,9 @@
+
+~
+java:S1450"\Remove the "firstPersonID" field and declare it as a local variable in the relevant methods.(˜óÈŸùÿÿÿÿ8ÀßÛ/
+z
+java:S1450"]Remove the "secondPersonID" field and declare it as a local variable in the relevant methods.(å¬‹ß8ÀßÛ/
+S
+java:S1068"1Remove this unused "firstPersonID" private field.(˜óÈŸùÿÿÿÿ8ÀßÛ/
+O
+java:S1068"2Remove this unused "secondPersonID" private field.(å¬‹ß8ÀßÛ/
