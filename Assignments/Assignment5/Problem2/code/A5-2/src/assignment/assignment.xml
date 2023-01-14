@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<year_end_report>
+    <year>
+        <start_date>2005-10-08</start_date>
+        <end_date>2006-10-11</end_date>
+    </year>
+    <manager_list>
+        <manager>
+            <manager_name>Anthony Bow</manager_name>
+            <manager_city>San Francisco</manager_city>
+            <staff>6</staff>
+            <customers>39</customers>
+            <sales_value/>
+        </manager>
+        <manager>
+            <manager_name>Gerard Bondur</manager_name>
+            <manager_city>Paris</manager_city>
+            <staff>6</staff>
+            <customers>46</customers>
+            <sales_value/>
+        </manager>
+        <manager>
+            <manager_name>Mary Patterson</manager_name>
+            <manager_city>San Francisco</manager_city>
+            <staff>1</staff>
+            <customers>5</customers>
+            <sales_value/>
+        </manager>
+        <manager>
+            <manager_name>William Patterson</manager_name>
+            <manager_city>Sydney</manager_city>
+            <staff>2</staff>
+            <customers>10</customers>
+            <sales_value/>
+        </manager>
+    </manager_list>
+    <product_line_list/>
+</year_end_report>

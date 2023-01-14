@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<year_end_report>
+    <year>
+        <start_date>2004-01-01</start_date>
+        <end_date>2005-10-12</end_date>
+    </year>
+    <manager_list>
+        <manager>
+            <manager_name>Anthony Bow</manager_name>
+            <manager_city>San Francisco</manager_city>
+            <staff>6</staff>
+            <customers>39</customers>
+            <sales_value>2253553.87</sales_value>
+        </manager>
+        <manager>
+            <manager_name>Gerard Bondur</manager_name>
+            <manager_city>Paris</manager_city>
+            <staff>6</staff>
+            <customers>46</customers>
+            <sales_value>3001200.44</sales_value>
+        </manager>
+        <manager>
+            <manager_name>Mary Patterson</manager_name>
+            <manager_city>San Francisco</manager_city>
+            <staff>1</staff>
+            <customers>5</customers>
+            <sales_value>189860.67</sales_value>
+        </manager>
+        <manager>
+            <manager_name>William Patterson</manager_name>
+            <manager_city>Sydney</manager_city>
+            <staff>2</staff>
+            <customers>10</customers>
+            <sales_value>842227.24</sales_value>
+        </manager>
+    </manager_list>
+    <product_line_list>
+        <product_line>
+            <product_line_name>Classic Cars</product_line_name>
+            <product_line_description>Attention car enthusiasts: Make your wildest car ownership dreams come true. Whether you are looking for classic muscle cars, dream sports cars or movie-inspired miniatures, you will find great choices in this category. These replicas feature superb attention to detail and craftsmanship and offer features such as working steering system, opening forward compartment, opening rear trunk with removable spare wheel, 4-wheel independent spring suspension, and so on. The models range in size from 1:10 to 1:24 scale and include numerous limited edition and several out-of-production vehicles. All models include a certificate of authenticity from their manufacturers and come fully assembled and ready for display in the home or office.</product_line_description>
+            <customer>
+                <customer_name>Signal Gift Stores</customer_name>
+                <order_value>42979.34</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectors, Co.</customer_name>
+                <order_value>48009.87</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Rochelle Gifts</customer_name>
+                <order_value>25318.57</order_value>
+            </customer>
+            <customer>
+                <customer_name>Baane Mini Imports</customer_name>
+                <order_value>22392.46</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Gifts Distributors Ltd.</customer_name>
+                <order_value>179164.53</order_value>
+            </customer>
+            <customer>
+                <customer_name>Blauer See Auto, Co.</customer_name>
+                <order_value>25212.81</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Wheels Co.</customer_name>
+                <order_value>4903.08</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>44428.24</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>296951.40</order_value>
+            </customer>
+            <customer>
+                <customer_name>Volvo Model Replicas, Co</customer_name>
+                <order_value>23125.89</order_value>
+            </customer>
+            <customer>
+                <customer_name>Danish Wholesale Imports</customer_name>
+                <order_value>49850.32</order_value>
+            </customer>
+            <customer>
+                <customer_name>Saveley &amp; Henriot, Co.</customer_name>
+                <order_value>27613.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Dragon Souveniers, Ltd.</customer_name>
+                <order_value>2611.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>Muscle Machine Inc</customer_name>
+                <order_value>48820.10</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Classics Inc.</customer_name>
+                <order_value>31173.38</order_value>
+            </customer>
+            <customer>
+                <customer_name>Handji Gifts&amp; Co</customer_name>
+                <order_value>46217.07</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Corne D'abondance, Co.</customer_name>
+                <order_value>34594.75</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cambridge Collectables Co.</customer_name>
+                <order_value>6214.70</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Depot Inc.</customer_name>
+                <order_value>24424.77</order_value>
+            </customer>
+            <customer>
+                <customer_name>Osaka Souveniers Co.</customer_name>
+                <order_value>15183.63</order_value>
+            </customer>
+            <customer>
+                <customer_name>Vitachrome Inc.</customer_name>
+                <order_value>25182.25</order_value>
+            </customer>
+            <customer>
+                <customer_name>Toys of Finland, Co.</customer_name>
+                <order_value>31557.14</order_value>
+            </customer>
+            <customer>
+                <customer_name>AV Stores, Co.</customer_name>
+                <order_value>34737.87</order_value>
+            </customer>
+            <customer>
+                <customer_name>Clover Collections, Co.</customer_name>
+                <order_value>26413.74</order_value>
+            </customer>
+            <customer>
+                <customer_name>UK Collectables, Ltd.</customer_name>
+                <order_value>45443.54</order_value>
+            </customer>
+            <customer>
+                <customer_name>Canadian Gift Exchange Network</customer_name>
+                <order_value>12154.40</order_value>
+            </customer>
+            <customer>
+                <customer_name>Online Mini Collectables</customer_name>
+                <order_value>34054.82</order_value>
+            </customer>
+            <customer>
+                <customer_name>Toys4GrownUps.com</customer_name>
+                <order_value>18918.97</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Caravy</customer_name>
+                <order_value>59868.89</order_value>
+            </customer>
+            <customer>
+                <customer_name>Boards &amp; Toys Co.</customer_name>
+                <order_value>3452.75</order_value>
+            </customer>
+            <customer>
+                <customer_name>Heintze Collectables</customer_name>
+                <order_value>35770.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Québec Home Shopping Network</customer_name>
+                <order_value>14825.38</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectable Mini Designs Co.</customer_name>
+                <order_value>30083.31</order_value>
+            </customer>
+            <customer>
+                <customer_name>giftsbymail.co.uk</customer_name>
+                <order_value>4173.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>Amica Models &amp; Co.</customer_name>
+                <order_value>26424.11</order_value>
+            </customer>
+            <customer>
+                <customer_name>Lyon Souveniers</customer_name>
+                <order_value>19499.42</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto Associés &amp; Cie.</customer_name>
+                <order_value>12704.48</order_value>
+            </customer>
+            <customer>
+                <customer_name>Toms Spezialitäten, Ltd</customer_name>
+                <order_value>57363.83</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royal Canadian Collectables, Ltd.</customer_name>
+                <order_value>3264.00</order_value>
+            </customer>
+            <customer>
+                <customer_name>Anna's Decorations, Ltd</customer_name>
+                <order_value>18187.89</order_value>
+            </customer>
+            <customer>
+                <customer_name>Souveniers And Things Co.</customer_name>
+                <order_value>34840.67</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marta's Replicas Co.</customer_name>
+                <order_value>22392.62</order_value>
+            </customer>
+            <customer>
+                <customer_name>Vida Sport, Ltd</customer_name>
+                <order_value>108777.92</order_value>
+            </customer>
+            <customer>
+                <customer_name>Oulu Toy Supplies, Inc.</customer_name>
+                <order_value>20827.07</order_value>
+            </customer>
+            <customer>
+                <customer_name>Petit Auto</customer_name>
+                <order_value>4080.00</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Creations Ltd.</customer_name>
+                <order_value>3481.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corporate Gift Ideas Co.</customer_name>
+                <order_value>16089.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>Down Under Souveniers, Inc</customer_name>
+                <order_value>87102.33</order_value>
+            </customer>
+            <customer>
+                <customer_name>Suominen Souveniers</customer_name>
+                <order_value>59117.51</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Gift Ideas, Inc</customer_name>
+                <order_value>2603.04</order_value>
+            </customer>
+            <customer>
+                <customer_name>CAF Imports</customer_name>
+                <order_value>15322.93</order_value>
+            </customer>
+            <customer>
+                <customer_name>Men 'R' US Retailers, Ltd.</customer_name>
+                <order_value>5038.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marseille Mini Autos</customer_name>
+                <order_value>3547.92</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>39851.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>GiftsForHim.com</customer_name>
+                <order_value>25856.52</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gifts4AllAges.com</customer_name>
+                <order_value>14895.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Online Diecast Creations Co.</customer_name>
+                <order_value>13724.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectables For Less Inc.</customer_name>
+                <order_value>7995.41</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royale Belge</customer_name>
+                <order_value>14379.90</order_value>
+            </customer>
+            <customer>
+                <customer_name>Salzburg Collectables</customer_name>
+                <order_value>74800.81</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cruz &amp; Sons Co.</customer_name>
+                <order_value>11753.90</order_value>
+            </customer>
+            <customer>
+                <customer_name>L'ordine Souveniers</customer_name>
+                <order_value>51619.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>25955.09</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto Canal+ Petit</customer_name>
+                <order_value>39521.99</order_value>
+            </customer>
+            <customer>
+                <customer_name>Extreme Desk Decorations, Ltd</customer_name>
+                <order_value>14619.54</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Legends Inc.</customer_name>
+                <order_value>8365.00</order_value>
+            </customer>
+            <customer>
+                <customer_name>Scandinavian Gift Ideas</customer_name>
+                <order_value>32301.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>The Sharp Gifts Warehouse</customer_name>
+                <order_value>47135.21</order_value>
+            </customer>
+            <customer>
+                <customer_name>Super Scale Inc.</customer_name>
+                <order_value>14371.98</order_value>
+            </customer>
+            <customer>
+                <customer_name>Microscale Inc.</customer_name>
+                <order_value>12346.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corrida Auto Replicas, Ltd</customer_name>
+                <order_value>18930.27</order_value>
+            </customer>
+            <customer>
+                <customer_name>FunGiftIdeas.com</customer_name>
+                <order_value>48355.87</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectables, Ltd</customer_name>
+                <order_value>9415.13</order_value>
+            </customer>
+            <customer>
+                <customer_name>Frau da Collezione</customer_name>
+                <order_value>5181.94</order_value>
+            </customer>
+            <customer>
+                <customer_name>West Coast Collectables Co.</customer_name>
+                <order_value>7200.55</order_value>
+            </customer>
+            <customer>
+                <customer_name>Motor Mint Distributors Inc.</customer_name>
+                <order_value>33571.23</order_value>
+            </customer>
+            <customer>
+                <customer_name>Signal Collectibles Ltd.</customer_name>
+                <order_value>6356.18</order_value>
+            </customer>
+            <customer>
+                <customer_name>Double Decker Gift Stores, Ltd</customer_name>
+                <order_value>4092.96</order_value>
+            </customer>
+        </product_line>
+        <product_line>
+            <product_line_name>Motorcycles</product_line_name>
+            <product_line_description>Our motorcycles are state of the art replicas of classic as well as contemporary motorcycle legends such as Harley Davidson, Ducati and Vespa. Models contain stunning details such as official logos, rotating wheels, working kickstand, front suspension, gear-shift lever, footbrake lever, and drive chain. Materials used include diecast and plastic. The models range in size from 1:10 to 1:50 scale and include numerous limited edition and several out-of-production vehicles. All models come fully assembled and ready for display in the home or office. Most include a certificate of authenticity.</product_line_description>
+            <customer>
+                <customer_name>Atelier graphique</customer_name>
+                <order_value>6066.78</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectors, Co.</customer_name>
+                <order_value>28199.67</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Rochelle Gifts</customer_name>
+                <order_value>42198.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Baane Mini Imports</customer_name>
+                <order_value>17876.32</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Gifts Distributors Ltd.</customer_name>
+                <order_value>12258.78</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>24469.17</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>40873.92</order_value>
+            </customer>
+            <customer>
+                <customer_name>Dragon Souveniers, Ltd.</customer_name>
+                <order_value>3516.04</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Classics Inc.</customer_name>
+                <order_value>27509.67</order_value>
+            </customer>
+            <customer>
+                <customer_name>Technics Stores Inc.</customer_name>
+                <order_value>12692.19</order_value>
+            </customer>
+            <customer>
+                <customer_name>Daedalus Designs Imports</customer_name>
+                <order_value>18997.89</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Corne D'abondance, Co.</customer_name>
+                <order_value>1960.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Depot Inc.</customer_name>
+                <order_value>32868.17</order_value>
+            </customer>
+            <customer>
+                <customer_name>Osaka Souveniers Co.</customer_name>
+                <order_value>16913.29</order_value>
+            </customer>
+            <customer>
+                <customer_name>Vitachrome Inc.</customer_name>
+                <order_value>22602.36</order_value>
+            </customer>
+            <customer>
+                <customer_name>Toys of Finland, Co.</customer_name>
+                <order_value>26386.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>Clover Collections, Co.</customer_name>
+                <order_value>4553.96</order_value>
+            </customer>
+            <customer>
+                <customer_name>UK Collectables, Ltd.</customer_name>
+                <order_value>37258.94</order_value>
+            </customer>
+            <customer>
+                <customer_name>Online Mini Collectables</customer_name>
+                <order_value>17098.04</order_value>
+            </customer>
+            <customer>
+                <customer_name>Enaco Distributors</customer_name>
+                <order_value>8709.25</order_value>
+            </customer>
+            <customer>
+                <customer_name>Lyon Souveniers</customer_name>
+                <order_value>2030.86</order_value>
+            </customer>
+            <customer>
+                <customer_name>Toms Spezialitäten, Ltd</customer_name>
+                <order_value>3870.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royal Canadian Collectables, Ltd.</customer_name>
+                <order_value>3726.90</order_value>
+            </customer>
+            <customer>
+                <customer_name>Souveniers And Things Co.</customer_name>
+                <order_value>4825.28</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marta's Replicas Co.</customer_name>
+                <order_value>38542.24</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Classics</customer_name>
+                <order_value>14946.43</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Creations Ltd.</customer_name>
+                <order_value>4825.48</order_value>
+            </customer>
+            <customer>
+                <customer_name>Down Under Souveniers, Inc</customer_name>
+                <order_value>23036.56</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tekni Collectables Inc.</customer_name>
+                <order_value>35116.44</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Gift Network, Co</customer_name>
+                <order_value>13341.75</order_value>
+            </customer>
+            <customer>
+                <customer_name>Suominen Souveniers</customer_name>
+                <order_value>10200.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marseille Mini Autos</customer_name>
+                <order_value>1834.56</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>1084.89</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gifts4AllAges.com</customer_name>
+                <order_value>12440.45</order_value>
+            </customer>
+            <customer>
+                <customer_name>Salzburg Collectables</customer_name>
+                <order_value>18039.49</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cruz &amp; Sons Co.</customer_name>
+                <order_value>4068.94</order_value>
+            </customer>
+            <customer>
+                <customer_name>L'ordine Souveniers</customer_name>
+                <order_value>5909.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>15729.27</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto Canal+ Petit</customer_name>
+                <order_value>46914.98</order_value>
+            </customer>
+            <customer>
+                <customer_name>Extreme Desk Decorations, Ltd</customer_name>
+                <order_value>14687.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Ideas Corp.</customer_name>
+                <order_value>3997.40</order_value>
+            </customer>
+            <customer>
+                <customer_name>Scandinavian Gift Ideas</customer_name>
+                <order_value>10126.31</order_value>
+            </customer>
+            <customer>
+                <customer_name>The Sharp Gifts Warehouse</customer_name>
+                <order_value>5119.63</order_value>
+            </customer>
+            <customer>
+                <customer_name>Microscale Inc.</customer_name>
+                <order_value>15204.29</order_value>
+            </customer>
+            <customer>
+                <customer_name>FunGiftIdeas.com</customer_name>
+                <order_value>18117.88</order_value>
+            </customer>
+            <customer>
+                <customer_name>Motor Mint Distributors Inc.</customer_name>
+                <order_value>11515.42</order_value>
+            </customer>
+            <customer>
+                <customer_name>Kelly's Gift Shop</customer_name>
+                <order_value>30253.75</order_value>
+            </customer>
+        </product_line>
+        <product_line>
+            <product_line_name>Planes</product_line_name>
+            <product_line_description>Unique, diecast airplane and helicopter replicas suitable for collections, as well as home, office or classroom decorations. Models contain stunning details such as official logos and insignias, rotating jet engines and propellers, retractable wheels, and so on. Most come fully assembled and with a certificate of authenticity from their manufacturers.</product_line_description>
+            <customer>
+                <customer_name>Australian Collectors, Co.</customer_name>
+                <order_value>15181.97</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Rochelle Gifts</customer_name>
+                <order_value>39360.76</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>1813.68</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>53284.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>Danish Wholesale Imports</customer_name>
+                <order_value>7208.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Classics Inc.</customer_name>
+                <order_value>7642.45</order_value>
+            </customer>
+            <customer>
+                <customer_name>Technics Stores Inc.</customer_name>
+                <order_value>2434.25</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cambridge Collectables Co.</customer_name>
+                <order_value>2669.32</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Depot Inc.</customer_name>
+                <order_value>9176.60</order_value>
+            </customer>
+            <customer>
+                <customer_name>Osaka Souveniers Co.</customer_name>
+                <order_value>26179.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Clover Collections, Co.</customer_name>
+                <order_value>11033.45</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto-Moto Classics Inc.</customer_name>
+                <order_value>7930.75</order_value>
+            </customer>
+            <customer>
+                <customer_name>Enaco Distributors</customer_name>
+                <order_value>12123.37</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectable Mini Designs Co.</customer_name>
+                <order_value>18818.52</order_value>
+            </customer>
+            <customer>
+                <customer_name>giftsbymail.co.uk</customer_name>
+                <order_value>23150.51</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royal Canadian Collectables, Ltd.</customer_name>
+                <order_value>23540.47</order_value>
+            </customer>
+            <customer>
+                <customer_name>Rovelli Gifts</customer_name>
+                <order_value>27069.60</order_value>
+            </customer>
+            <customer>
+                <customer_name>Souveniers And Things Co.</customer_name>
+                <order_value>18877.85</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marta's Replicas Co.</customer_name>
+                <order_value>4591.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Norway Gifts By Mail, Co.</customer_name>
+                <order_value>25719.05</order_value>
+            </customer>
+            <customer>
+                <customer_name>Oulu Toy Supplies, Inc.</customer_name>
+                <order_value>12848.81</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Classics</customer_name>
+                <order_value>22833.98</order_value>
+            </customer>
+            <customer>
+                <customer_name>Stylish Desk Decors, Co.</customer_name>
+                <order_value>9526.66</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tekni Collectables Inc.</customer_name>
+                <order_value>33308.49</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Gift Network, Co</customer_name>
+                <order_value>8090.56</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Gift Ideas, Inc</customer_name>
+                <order_value>8247.34</order_value>
+            </customer>
+            <customer>
+                <customer_name>Men 'R' US Retailers, Ltd.</customer_name>
+                <order_value>4978.95</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>32518.05</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectables For Less Inc.</customer_name>
+                <order_value>9165.23</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royale Belge</customer_name>
+                <order_value>5624.79</order_value>
+            </customer>
+            <customer>
+                <customer_name>Salzburg Collectables</customer_name>
+                <order_value>2393.60</order_value>
+            </customer>
+            <customer>
+                <customer_name>L'ordine Souveniers</customer_name>
+                <order_value>26213.17</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>15354.83</order_value>
+            </customer>
+            <customer>
+                <customer_name>Extreme Desk Decorations, Ltd</customer_name>
+                <order_value>12114.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Bavarian Collectables Imports, Co.</customer_name>
+                <order_value>19600.79</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Ideas Corp.</customer_name>
+                <order_value>18151.53</order_value>
+            </customer>
+            <customer>
+                <customer_name>The Sharp Gifts Warehouse</customer_name>
+                <order_value>39791.19</order_value>
+            </customer>
+            <customer>
+                <customer_name>FunGiftIdeas.com</customer_name>
+                <order_value>9021.90</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectables, Ltd</customer_name>
+                <order_value>3094.77</order_value>
+            </customer>
+            <customer>
+                <customer_name>Kelly's Gift Shop</customer_name>
+                <order_value>14167.22</order_value>
+            </customer>
+        </product_line>
+        <product_line>
+            <product_line_name>Ships</product_line_name>
+            <product_line_description>The perfect holiday or anniversary gift for executives, clients, friends, and family. These handcrafted model ships are unique, stunning works of art that will be treasured for generations! They come fully assembled and ready for display in the home or office. We guarantee the highest quality, and best value.</product_line_description>
+            <customer>
+                <customer_name>La Rochelle Gifts</customer_name>
+                <order_value>14799.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Gifts Distributors Ltd.</customer_name>
+                <order_value>12257.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>22437.19</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>42112.79</order_value>
+            </customer>
+            <customer>
+                <customer_name>Volvo Model Replicas, Co</customer_name>
+                <order_value>7303.76</order_value>
+            </customer>
+            <customer>
+                <customer_name>Danish Wholesale Imports</customer_name>
+                <order_value>13356.06</order_value>
+            </customer>
+            <customer>
+                <customer_name>Saveley &amp; Henriot, Co.</customer_name>
+                <order_value>21010.71</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cambridge Collectables Co.</customer_name>
+                <order_value>3439.60</order_value>
+            </customer>
+            <customer>
+                <customer_name>AV Stores, Co.</customer_name>
+                <order_value>19186.06</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto-Moto Classics Inc.</customer_name>
+                <order_value>1727.99</order_value>
+            </customer>
+            <customer>
+                <customer_name>Online Mini Collectables</customer_name>
+                <order_value>4424.40</order_value>
+            </customer>
+            <customer>
+                <customer_name>Heintze Collectables</customer_name>
+                <order_value>1912.45</order_value>
+            </customer>
+            <customer>
+                <customer_name>Québec Home Shopping Network</customer_name>
+                <order_value>16472.01</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectable Mini Designs Co.</customer_name>
+                <order_value>17760.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>giftsbymail.co.uk</customer_name>
+                <order_value>23602.47</order_value>
+            </customer>
+            <customer>
+                <customer_name>Alpha Cognac</customer_name>
+                <order_value>12432.32</order_value>
+            </customer>
+            <customer>
+                <customer_name>Amica Models &amp; Co.</customer_name>
+                <order_value>6251.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royal Canadian Collectables, Ltd.</customer_name>
+                <order_value>20133.15</order_value>
+            </customer>
+            <customer>
+                <customer_name>Rovelli Gifts</customer_name>
+                <order_value>3080.33</order_value>
+            </customer>
+            <customer>
+                <customer_name>Souveniers And Things Co.</customer_name>
+                <order_value>2063.76</order_value>
+            </customer>
+            <customer>
+                <customer_name>Oulu Toy Supplies, Inc.</customer_name>
+                <order_value>17205.90</order_value>
+            </customer>
+            <customer>
+                <customer_name>Petit Auto</customer_name>
+                <order_value>25590.98</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corporate Gift Ideas Co.</customer_name>
+                <order_value>6680.10</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tekni Collectables Inc.</customer_name>
+                <order_value>4346.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Gift Ideas, Inc</customer_name>
+                <order_value>4983.38</order_value>
+            </customer>
+            <customer>
+                <customer_name>Men 'R' US Retailers, Ltd.</customer_name>
+                <order_value>5299.40</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>4679.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>GiftsForHim.com</customer_name>
+                <order_value>2658.15</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gifts4AllAges.com</customer_name>
+                <order_value>31014.06</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectables For Less Inc.</customer_name>
+                <order_value>1803.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royale Belge</customer_name>
+                <order_value>2264.08</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>16112.10</order_value>
+            </customer>
+            <customer>
+                <customer_name>Extreme Desk Decorations, Ltd</customer_name>
+                <order_value>6461.52</order_value>
+            </customer>
+            <customer>
+                <customer_name>Bavarian Collectables Imports, Co.</customer_name>
+                <order_value>4510.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Legends Inc.</customer_name>
+                <order_value>13782.46</order_value>
+            </customer>
+            <customer>
+                <customer_name>The Sharp Gifts Warehouse</customer_name>
+                <order_value>6034.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectables, Ltd</customer_name>
+                <order_value>2346.24</order_value>
+            </customer>
+            <customer>
+                <customer_name>Kelly's Gift Shop</customer_name>
+                <order_value>20281.48</order_value>
+            </customer>
+        </product_line>
+        <product_line>
+            <product_line_name>Trains</product_line_name>
+            <product_line_description>Model trains are a rewarding hobby for enthusiasts of all ages. Whether you're looking for collectible wooden trains, electric streetcars or locomotives, you'll find a number of great choices for any budget within this category. The interactive aspect of trains makes toy trains perfect for young children. The wooden train sets are ideal for children under the age of 5.</product_line_description>
+            <customer>
+                <customer_name>Baane Mini Imports</customer_name>
+                <order_value>4022.96</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Gifts Distributors Ltd.</customer_name>
+                <order_value>10937.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>Blauer See Auto, Co.</customer_name>
+                <order_value>5184.01</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>7615.40</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>16210.09</order_value>
+            </customer>
+            <customer>
+                <customer_name>Volvo Model Replicas, Co</customer_name>
+                <order_value>3033.28</order_value>
+            </customer>
+            <customer>
+                <customer_name>Saveley &amp; Henriot, Co.</customer_name>
+                <order_value>6386.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Classics Inc.</customer_name>
+                <order_value>4862.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Corne D'abondance, Co.</customer_name>
+                <order_value>3947.57</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Depot Inc.</customer_name>
+                <order_value>4076.01</order_value>
+            </customer>
+            <customer>
+                <customer_name>AV Stores, Co.</customer_name>
+                <order_value>7873.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Clover Collections, Co.</customer_name>
+                <order_value>2698.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Heintze Collectables</customer_name>
+                <order_value>5907.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>giftsbymail.co.uk</customer_name>
+                <order_value>4694.88</order_value>
+            </customer>
+            <customer>
+                <customer_name>Amica Models &amp; Co.</customer_name>
+                <order_value>2018.72</order_value>
+            </customer>
+            <customer>
+                <customer_name>Lyon Souveniers</customer_name>
+                <order_value>2609.55</order_value>
+            </customer>
+            <customer>
+                <customer_name>Petit Auto</customer_name>
+                <order_value>6187.56</order_value>
+            </customer>
+            <customer>
+                <customer_name>Suominen Souveniers</customer_name>
+                <order_value>4862.35</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>2553.33</order_value>
+            </customer>
+            <customer>
+                <customer_name>GiftsForHim.com</customer_name>
+                <order_value>5364.47</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gifts4AllAges.com</customer_name>
+                <order_value>4114.08</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>3657.68</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Legends Inc.</customer_name>
+                <order_value>1144.08</order_value>
+            </customer>
+            <customer>
+                <customer_name>Kelly's Gift Shop</customer_name>
+                <order_value>2748.91</order_value>
+            </customer>
+        </product_line>
+        <product_line>
+            <product_line_name>Trucks and Buses</product_line_name>
+            <product_line_description>The Truck and Bus models are realistic replicas of buses and specialized trucks produced from the early 1920s to present. The models range in size from 1:12 to 1:50 scale and include numerous limited edition and several out-of-production vehicles. Materials used include tin, diecast and plastic. All models include a certificate of authenticity from their manufacturers and are a perfect ornament for the home and office.</product_line_description>
+            <customer>
+                <customer_name>Australian Collectors, Co.</customer_name>
+                <order_value>16326.52</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Rochelle Gifts</customer_name>
+                <order_value>24622.67</order_value>
+            </customer>
+            <customer>
+                <customer_name>Baane Mini Imports</customer_name>
+                <order_value>5468.96</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Gifts Distributors Ltd.</customer_name>
+                <order_value>105090.68</order_value>
+            </customer>
+            <customer>
+                <customer_name>Blauer See Auto, Co.</customer_name>
+                <order_value>7976.22</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Wheels Co.</customer_name>
+                <order_value>9276.13</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>13574.03</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>85431.39</order_value>
+            </customer>
+            <customer>
+                <customer_name>Volvo Model Replicas, Co</customer_name>
+                <order_value>16687.31</order_value>
+            </customer>
+            <customer>
+                <customer_name>Muscle Machine Inc</customer_name>
+                <order_value>11458.97</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Classics Inc.</customer_name>
+                <order_value>25440.29</order_value>
+            </customer>
+            <customer>
+                <customer_name>Handji Gifts&amp; Co</customer_name>
+                <order_value>43882.61</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Corne D'abondance, Co.</customer_name>
+                <order_value>6176.70</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cambridge Collectables Co.</customer_name>
+                <order_value>3210.88</order_value>
+            </customer>
+            <customer>
+                <customer_name>Vitachrome Inc.</customer_name>
+                <order_value>14175.95</order_value>
+            </customer>
+            <customer>
+                <customer_name>Clover Collections, Co.</customer_name>
+                <order_value>3426.20</order_value>
+            </customer>
+            <customer>
+                <customer_name>Canadian Gift Exchange Network</customer_name>
+                <order_value>21440.18</order_value>
+            </customer>
+            <customer>
+                <customer_name>Heintze Collectables</customer_name>
+                <order_value>7560.55</order_value>
+            </customer>
+            <customer>
+                <customer_name>Québec Home Shopping Network</customer_name>
+                <order_value>15959.17</order_value>
+            </customer>
+            <customer>
+                <customer_name>Amica Models &amp; Co.</customer_name>
+                <order_value>2352.00</order_value>
+            </customer>
+            <customer>
+                <customer_name>Lyon Souveniers</customer_name>
+                <order_value>4525.94</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto Associés &amp; Cie.</customer_name>
+                <order_value>17112.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Anna's Decorations, Ltd</customer_name>
+                <order_value>27396.76</order_value>
+            </customer>
+            <customer>
+                <customer_name>Souveniers And Things Co.</customer_name>
+                <order_value>16035.78</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marta's Replicas Co.</customer_name>
+                <order_value>25018.71</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corporate Gift Ideas Co.</customer_name>
+                <order_value>10266.67</order_value>
+            </customer>
+            <customer>
+                <customer_name>Down Under Souveniers, Inc</customer_name>
+                <order_value>19241.47</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>6215.50</order_value>
+            </customer>
+            <customer>
+                <customer_name>Online Diecast Creations Co.</customer_name>
+                <order_value>7922.29</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>11385.51</order_value>
+            </customer>
+            <customer>
+                <customer_name>Scandinavian Gift Ideas</customer_name>
+                <order_value>24146.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Super Scale Inc.</customer_name>
+                <order_value>15671.49</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corrida Auto Replicas, Ltd</customer_name>
+                <order_value>9717.54</order_value>
+            </customer>
+            <customer>
+                <customer_name>Frau da Collezione</customer_name>
+                <order_value>2430.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>West Coast Collectables Co.</customer_name>
+                <order_value>4615.64</order_value>
+            </customer>
+            <customer>
+                <customer_name>Signal Collectibles Ltd.</customer_name>
+                <order_value>6217.10</order_value>
+            </customer>
+        </product_line>
+        <product_line>
+            <product_line_name>Vintage Cars</product_line_name>
+            <product_line_description>Our Vintage Car models realistically portray automobiles produced from the early 1900s through the 1940s. Materials used include Bakelite, diecast, plastic and wood. Most of the replicas are in the 1:18 and 1:24 scale sizes, which provide the optimum in detail and accuracy. Prices range from $30.00 up to $180.00 for some special limited edition replicas. All models include a certificate of authenticity from their manufacturers and come fully assembled and ready for display in the home or office.</product_line_description>
+            <customer>
+                <customer_name>Atelier graphique</customer_name>
+                <order_value>1676.14</order_value>
+            </customer>
+            <customer>
+                <customer_name>Signal Gift Stores</customer_name>
+                <order_value>4559.66</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectors, Co.</customer_name>
+                <order_value>19437.93</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Rochelle Gifts</customer_name>
+                <order_value>12273.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>Baane Mini Imports</customer_name>
+                <order_value>2753.76</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Gifts Distributors Ltd.</customer_name>
+                <order_value>104334.85</order_value>
+            </customer>
+            <customer>
+                <customer_name>Blauer See Auto, Co.</customer_name>
+                <order_value>2913.90</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Wheels Co.</customer_name>
+                <order_value>12069.57</order_value>
+            </customer>
+            <customer>
+                <customer_name>Land of Toys Inc.</customer_name>
+                <order_value>12454.82</order_value>
+            </customer>
+            <customer>
+                <customer_name>Euro+ Shopping Channel</customer_name>
+                <order_value>95985.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Volvo Model Replicas, Co</customer_name>
+                <order_value>8869.64</order_value>
+            </customer>
+            <customer>
+                <customer_name>Danish Wholesale Imports</customer_name>
+                <order_value>4710.73</order_value>
+            </customer>
+            <customer>
+                <customer_name>Saveley &amp; Henriot, Co.</customer_name>
+                <order_value>35582.16</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Classics Inc.</customer_name>
+                <order_value>7730.88</order_value>
+            </customer>
+            <customer>
+                <customer_name>Handji Gifts&amp; Co</customer_name>
+                <order_value>17647.07</order_value>
+            </customer>
+            <customer>
+                <customer_name>Herkku Gifts</customer_name>
+                <order_value>12538.01</order_value>
+            </customer>
+            <customer>
+                <customer_name>La Corne D'abondance, Co.</customer_name>
+                <order_value>6490.56</order_value>
+            </customer>
+            <customer>
+                <customer_name>Cambridge Collectables Co.</customer_name>
+                <order_value>16664.19</order_value>
+            </customer>
+            <customer>
+                <customer_name>Osaka Souveniers Co.</customer_name>
+                <order_value>4084.50</order_value>
+            </customer>
+            <customer>
+                <customer_name>Vitachrome Inc.</customer_name>
+                <order_value>5042.30</order_value>
+            </customer>
+            <customer>
+                <customer_name>AV Stores, Co.</customer_name>
+                <order_value>38186.89</order_value>
+            </customer>
+            <customer>
+                <customer_name>Clover Collections, Co.</customer_name>
+                <order_value>1772.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto-Moto Classics Inc.</customer_name>
+                <order_value>5858.56</order_value>
+            </customer>
+            <customer>
+                <customer_name>Toys4GrownUps.com</customer_name>
+                <order_value>20661.63</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Caravy</customer_name>
+                <order_value>15990.43</order_value>
+            </customer>
+            <customer>
+                <customer_name>Enaco Distributors</customer_name>
+                <order_value>4112.59</order_value>
+            </customer>
+            <customer>
+                <customer_name>Heintze Collectables</customer_name>
+                <order_value>2595.20</order_value>
+            </customer>
+            <customer>
+                <customer_name>Québec Home Shopping Network</customer_name>
+                <order_value>4811.27</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectable Mini Designs Co.</customer_name>
+                <order_value>13713.29</order_value>
+            </customer>
+            <customer>
+                <customer_name>giftsbymail.co.uk</customer_name>
+                <order_value>16162.05</order_value>
+            </customer>
+            <customer>
+                <customer_name>Amica Models &amp; Co.</customer_name>
+                <order_value>45177.18</order_value>
+            </customer>
+            <customer>
+                <customer_name>Lyon Souveniers</customer_name>
+                <order_value>15573.95</order_value>
+            </customer>
+            <customer>
+                <customer_name>Auto Associés &amp; Cie.</customer_name>
+                <order_value>29059.67</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royal Canadian Collectables, Ltd.</customer_name>
+                <order_value>16147.48</order_value>
+            </customer>
+            <customer>
+                <customer_name>Anna's Decorations, Ltd</customer_name>
+                <order_value>11347.65</order_value>
+            </customer>
+            <customer>
+                <customer_name>Rovelli Gifts</customer_name>
+                <order_value>7504.16</order_value>
+            </customer>
+            <customer>
+                <customer_name>Souveniers And Things Co.</customer_name>
+                <order_value>33250.26</order_value>
+            </customer>
+            <customer>
+                <customer_name>Norway Gifts By Mail, Co.</customer_name>
+                <order_value>6541.11</order_value>
+            </customer>
+            <customer>
+                <customer_name>Oulu Toy Supplies, Inc.</customer_name>
+                <order_value>12101.33</order_value>
+            </customer>
+            <customer>
+                <customer_name>Petit Auto</customer_name>
+                <order_value>34993.04</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Classics</customer_name>
+                <order_value>4559.35</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corporate Gift Ideas Co.</customer_name>
+                <order_value>13745.77</order_value>
+            </customer>
+            <customer>
+                <customer_name>Down Under Souveniers, Inc</customer_name>
+                <order_value>22361.72</order_value>
+            </customer>
+            <customer>
+                <customer_name>Stylish Desk Decors, Co.</customer_name>
+                <order_value>4145.16</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tekni Collectables Inc.</customer_name>
+                <order_value>9035.36</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Gift Ideas, Inc</customer_name>
+                <order_value>7499.30</order_value>
+            </customer>
+            <customer>
+                <customer_name>Men 'R' US Retailers, Ltd.</customer_name>
+                <order_value>5736.54</order_value>
+            </customer>
+            <customer>
+                <customer_name>Marseille Mini Autos</customer_name>
+                <order_value>15340.39</order_value>
+            </customer>
+            <customer>
+                <customer_name>Reims Collectables</customer_name>
+                <order_value>9459.09</order_value>
+            </customer>
+            <customer>
+                <customer_name>GiftsForHim.com</customer_name>
+                <order_value>40332.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gifts4AllAges.com</customer_name>
+                <order_value>21876.71</order_value>
+            </customer>
+            <customer>
+                <customer_name>Online Diecast Creations Co.</customer_name>
+                <order_value>29152.82</order_value>
+            </customer>
+            <customer>
+                <customer_name>Collectables For Less Inc.</customer_name>
+                <order_value>21889.58</order_value>
+            </customer>
+            <customer>
+                <customer_name>Royale Belge</customer_name>
+                <order_value>4192.65</order_value>
+            </customer>
+            <customer>
+                <customer_name>Salzburg Collectables</customer_name>
+                <order_value>6419.84</order_value>
+            </customer>
+            <customer>
+                <customer_name>L'ordine Souveniers</customer_name>
+                <order_value>3239.87</order_value>
+            </customer>
+            <customer>
+                <customer_name>Tokyo Collectables, Ltd</customer_name>
+                <order_value>17354.25</order_value>
+            </customer>
+            <customer>
+                <customer_name>Extreme Desk Decorations, Ltd</customer_name>
+                <order_value>42449.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Bavarian Collectables Imports, Co.</customer_name>
+                <order_value>7199.28</order_value>
+            </customer>
+            <customer>
+                <customer_name>Classic Legends Inc.</customer_name>
+                <order_value>2214.44</order_value>
+            </customer>
+            <customer>
+                <customer_name>Gift Ideas Corp.</customer_name>
+                <order_value>4155.20</order_value>
+            </customer>
+            <customer>
+                <customer_name>Scandinavian Gift Ideas</customer_name>
+                <order_value>10202.65</order_value>
+            </customer>
+            <customer>
+                <customer_name>The Sharp Gifts Warehouse</customer_name>
+                <order_value>45456.02</order_value>
+            </customer>
+            <customer>
+                <customer_name>Mini Auto Werke</customer_name>
+                <order_value>8807.12</order_value>
+            </customer>
+            <customer>
+                <customer_name>Super Scale Inc.</customer_name>
+                <order_value>2196.00</order_value>
+            </customer>
+            <customer>
+                <customer_name>Microscale Inc.</customer_name>
+                <order_value>1679.92</order_value>
+            </customer>
+            <customer>
+                <customer_name>Corrida Auto Replicas, Ltd</customer_name>
+                <order_value>26660.36</order_value>
+            </customer>
+            <customer>
+                <customer_name>FunGiftIdeas.com</customer_name>
+                <order_value>3153.99</order_value>
+            </customer>
+            <customer>
+                <customer_name>Australian Collectables, Ltd</customer_name>
+                <order_value>5504.25</order_value>
+            </customer>
+            <customer>
+                <customer_name>West Coast Collectables Co.</customer_name>
+                <order_value>24254.28</order_value>
+            </customer>
+            <customer>
+                <customer_name>Iberia Gift Imports, Corp.</customer_name>
+                <order_value>3474.66</order_value>
+            </customer>
+            <customer>
+                <customer_name>Motor Mint Distributors Inc.</customer_name>
+                <order_value>6806.80</order_value>
+            </customer>
+            <customer>
+                <customer_name>Double Decker Gift Stores, Ltd</customer_name>
+                <order_value>3217.46</order_value>
+            </customer>
+            <customer>
+                <customer_name>Diecast Collectables</customer_name>
+                <order_value>6276.60</order_value>
+            </customer>
+            <customer>
+                <customer_name>Kelly's Gift Shop</customer_name>
+                <order_value>14968.39</order_value>
+            </customer>
+        </product_line>
+    </product_line_list>
+</year_end_report>
